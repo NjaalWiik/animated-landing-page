@@ -19,7 +19,7 @@ Here's a blank template to get started:
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Animated landing page</h3>
+  <h3 align="center">Animated Landing Page</h3>
 
   <p align="center">
     Front end project. Added animations to a tailwind landing page.
