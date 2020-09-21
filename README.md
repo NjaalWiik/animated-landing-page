@@ -2,8 +2,9 @@
 <!--
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`repo_name`
+`animated-landing-page`
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -11,34 +12,31 @@ Here's a blank template to get started:
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/NjaalWiik/repo_name">
+  <a href="https://github.com/NjaalWiik/animated-landing-page">
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">TITLE</h3>
+  <h3 align="center">Animated landing page</h3>
 
   <p align="center">
-    DESCRIPTION
+    Front end project. Added animations to a tailwind landing page.
     <br />
-    <a href="https://njaalwiik.github.io/repo_name"><strong>View Demo »</strong></a>
+    <a href="https://njaalwiik.github.io/animated-landing-page"><strong>View Demo »</strong></a>
     <br />
     <br />
-    <a href="https://njaalwiik.github.io/repo_name">Explore The Docs</a>
+    <a href="https://njaalwiik.github.io/animated-landing-page">Explore The Docs</a>
     ·
-    <a href="https://github.com/NjaalWiik/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/NjaalWiik/animated-landing-page/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NjaalWiik/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/NjaalWiik/animated-landing-page/issues">Request Feature</a>
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -50,36 +48,30 @@ Here's a blank template to get started:
 - [License](#license)
 - [Contact](#contact)
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/repo_name/blob/master/images/demo.png?raw=true)
-
-
-
+[![Product Name Screen Shot][product-screenshot]](https://github.com/NjaalWiik/animated-landing-page/blob/master/images/demo.png?raw=true)
 
 ### Built With
 
-* <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
+- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
-See the [open issues](https://github.com/NjaalWiik/repo_name/issues) for a list of proposed features (and known issues).
-
-
+See the [open issues](https://github.com/NjaalWiik/animated-landing-page/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -90,28 +82,23 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Njål Wiik - [@linkedin-url](https://www.linkedin.com/in/njaal-wiik/)
 
-Project Link: [https://github.com/NjaalWiik/repo_name](https://github.com/NjaalWiik/repo_name)
-
-
-
-
+Project Link: [https://github.com/NjaalWiik/animated-landing-page](https://github.com/NjaalWiik/animated-landing-page)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/NjaalWiik/repo.svg?style=flat-square
 [contributors-url]: https://github.com/NjaalWiik/repo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/NjaalWiik/repo.svg?style=flat-square
@@ -124,4 +111,4 @@ Project Link: [https://github.com/NjaalWiik/repo_name](https://github.com/NjaalW
 [license-url]: https://github.com/NjaalWiik/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/njaal-wiik/
-[product-screenshot]: https://github.com/NjaalWiik/repo_name/blob/master/images/demo.png?raw=true
+[product-screenshot]: https://github.com/NjaalWiik/animated-landing-page/blob/master/images/demo.png?raw=true
